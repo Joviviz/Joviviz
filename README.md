@@ -3,8 +3,9 @@
 
 ## Who am I?
 Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <br>
-I speak both English :us: flag Portuguese 🇧🇷
+English :us: | Portuguese 🇧🇷
 
+<hr>
 ## Code Languages do I know?
 - Python
 - MySql
@@ -12,6 +13,7 @@ I speak both English :us: flag Portuguese 🇧🇷
 - Go
 - Java
 
+<hr>
 ## 
 <!--
 **Joviviz/Joviviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
