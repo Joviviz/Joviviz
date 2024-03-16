@@ -6,7 +6,7 @@ Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <b
 English :us: | Portuguese 🇧🇷
 
 <hr>
-## Code Languages do I know?
+## Code Languages do I know? <br>
 - Python
 - MySql
 - HTML
