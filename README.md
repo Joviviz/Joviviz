@@ -5,7 +5,7 @@
 Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <br>
 English :us: | Portuguese 🇧🇷
 
-## What Code Languages do I know? 
+## Code Languages 📈 
 
 * Python
 * MySql
@@ -14,11 +14,18 @@ English :us: | Portuguese 🇧🇷
 * Go
 * Java
 
-## Education (⬇️Latest to Newest)
+## Education | ⬇️ Latest to Newest ⬇️
 *  UniCeub - University Center of Brasília | Higher Education | 4th Semester
 *  Unico | Medicine Course for University | 1 y and 1/2
 *  CMB - Military School of Brasilia | High School - Middle School
 *  Sacred Heart of Mary | Intermediate School - Elementary School
+
+## Instruments I play 🎵
+#### (In case you want to form a band)
+*  Piano
+*  Accoustic Guitar
+*  Flute
+
 <!--
 **Joviviz/Joviviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
