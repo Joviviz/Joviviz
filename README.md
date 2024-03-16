@@ -2,8 +2,8 @@
 # Heyo!!👋☺️ I'm Jovi (João Vieira)! 
 
 ## Who am I?
-Im a Computer Science student from @UniCeub, I`m currently on my 4th semester
-I speak both English : and Portuguese
+Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <br>
+I speak both English :us: flag Portuguese 🇧🇷
 
 ## Code Languages do I know?
 - Python
