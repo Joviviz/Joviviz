@@ -5,16 +5,15 @@
 Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <br>
 English :us: | Portuguese 🇧🇷
 
-<hr>
-## Code Languages do I know? <br>
-- Python
-- MySql
-- HTML
-- C
-- Go
-- Java
+## What Code Languages do I know? 
 
-<hr>
+* Python
+* MySql
+* HTML
+* C
+* Go
+* Java
+
 ## 
 <!--
 **Joviviz/Joviviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
