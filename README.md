@@ -2,7 +2,7 @@
 # 👋☺️ Heyo ! I'm Jovi ! 
 
 ## Who am I?
-Im a Computer Science student from @UniCeub, I`m currently on my 4th semester <br>
+Im a Computer Science student from @UniCeub, I'm currently on my 4th semester <br>
 English :us: | Portuguese 🇧🇷
 
 ## Code Languages 📈 
