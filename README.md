@@ -20,6 +20,10 @@ English :us: | Portuguese 🇧🇷
 *  CMB - Military School of Brasilia       | High School - Middle School
 *  CSCM - Sacred Heart of Mary             | Intermediate School - Elementary School
 
+# Groups
+* Astronomy Group - CMB
+* Botanic Group - CMB
+
 ## Instruments I play 🎵
 #### (In case you want to start a band)
 *  Piano
