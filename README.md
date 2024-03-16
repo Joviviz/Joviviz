@@ -20,7 +20,7 @@ English :us: | Portuguese 🇧🇷
 *  CMB - Military School of Brasilia       | High School - Middle School
 *  CSCM - Sacred Heart of Mary             | Intermediate School - Elementary School
 
-# Groups
+### Groups
 * Astronomy Group - CMB
 * Botanic Group - CMB
 
