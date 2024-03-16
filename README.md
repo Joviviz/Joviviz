@@ -21,7 +21,7 @@ English :us: | Portuguese 🇧🇷
 *  CSCM - Sacred Heart of Mary             | Intermediate School - Elementary School
 
 ## Instruments I play 🎵
-#### (In case you want to form a band)
+#### (In case you want to start a band)
 *  Piano
 *  Accoustic Guitar
 *  Flute
