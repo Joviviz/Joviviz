@@ -2,11 +2,11 @@
 # 👋☺️ Heyo ! I'm Jovi ! 
 
 ## Who am I?
-Im a Computer Science student from @UniCeub, I'm currently on my 4th semester :us: <br>
+#### I'm a Computer Science student from @UniCeub, I'm currently on my 4th semester :us: <br>
 
-Sou um estudante de Ciências da Computação do quarto semestre do @Uniceub 🇧🇷 <br>
+#### Sou um estudante de Ciências da Computação do quarto semestre do @Uniceub 🇧🇷 <br>
 
-English :us: | Portuguese 🇧🇷
+#### English :us: | Portuguese 🇧🇷
 
 ## Technologies 📈 
 
