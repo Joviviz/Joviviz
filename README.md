@@ -23,7 +23,7 @@ English :us: | Portuguese 🇧🇷
 ### Groups
 * Astronomy Group - CMB
 * Botanic Group - CMB
-* Project Feynman - CMB | Studenbts Iniciative | Physics - Chemistry
+* Project Feynman - CMB | Students Iniciative | Physics - Chemistry
 
 ## Instruments I play 🎵
 #### (In case you want to start a band)
