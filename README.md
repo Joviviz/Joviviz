@@ -16,9 +16,9 @@ English :us: | Portuguese 🇧🇷
 
 ## Education | ⬇️ Latest to Newest ⬇️
 *  UniCeub - University Center of Brasília | Higher Education | 4th Semester
-*  Unico | Medicine Course for University | 1 y and 1/2
-*  CMB - Military School of Brasilia | High School - Middle School
-*  Sacred Heart of Mary | Intermediate School - Elementary School
+*  Unico                                   | Medicine Course for University | 1 y and 1/2
+*  CMB - Military School of Brasilia       | High School - Middle School
+*  CSCM - Sacred Heart of Mary             | Intermediate School - Elementary School
 
 ## Instruments I play 🎵
 #### (In case you want to form a band)
