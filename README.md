@@ -10,6 +10,7 @@ English :us: | Portuguese 🇧🇷
 - Python
 - MySql
 - HTML
+- C
 - Go
 - Java
 
