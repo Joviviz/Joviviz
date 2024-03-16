@@ -5,7 +5,7 @@
 Im a Computer Science student from @UniCeub, I'm currently on my 4th semester <br>
 English :us: | Portuguese 🇧🇷
 
-## Code Languages 📈 
+## Technologies 📈 
 
 * Python
 * MySql
