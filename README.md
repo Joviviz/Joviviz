@@ -11,7 +11,7 @@
 ## Technologies 📈 
 
 * Python
-* MySql
+* MySQL
 * HTML
 * C
 * Go
