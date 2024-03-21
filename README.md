@@ -13,8 +13,9 @@
 * Python
 * MySQL
 * HTML
-* C
+* CSS
 * Go
+* C
 * Java
 
 ## Education | ⬇️ Latest to Newest ⬇️
