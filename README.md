@@ -10,10 +10,10 @@
 
 ## Technologies 📈 
 
-* Python
-* MySQL
 * HTML
 * CSS
+* Python
+* MySQL
 * Go
 * C
 * Java
