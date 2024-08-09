@@ -2,9 +2,9 @@
 # 👋☺️ Heyo ! I'm Jovi ! 
 
 ## Who am I?
-#### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 4th semester :us: <br>
+#### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 5th semester :us: <br>
 
-#### Sou um estudante de Ciências da Computação do quarto semestre do @Uniceub 🇧🇷 <br>
+#### Sou um Desenvolvedor Front End e um estudante de Ciências da Computação do quinto semestre do @Uniceub 🇧🇷 <br>
 
 #### English :us: | Portuguese 🇧🇷
 
