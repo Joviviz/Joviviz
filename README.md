@@ -10,8 +10,8 @@
 
 ## Technologies 📈 
 
-* HTML
-* CSS
+* HTML / CSS
+* PHP
 * Python
 * MySQL
 * Go
