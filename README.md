@@ -1,6 +1,8 @@
 
 # 👋☺️ Heyo ! I'm Jovi ! 
 
+![](https://komarev.com/ghpvc/?username=Joviviz&color=purple)
+
 ## Who am I?
 #### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 5th semester :us: <br>
 
