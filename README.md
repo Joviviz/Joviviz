@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Who am I?
-#### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 5th semester :us: <br>
+#### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 6th semester :us: <br>
 
 #### Sou um Desenvolvedor Front End e um estudante de Ciências da Computação do quinto semestre do @Uniceub 🇧🇷 <br>
 
