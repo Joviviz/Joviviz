@@ -27,7 +27,7 @@
 </p>
 
 ## Certifications
-* [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design}
+[Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
 
 ## Education | ⬇️ Latest to Newest ⬇️
 *  UniCeub - University Center of Brasília | Higher Education
