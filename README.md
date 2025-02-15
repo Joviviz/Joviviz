@@ -22,9 +22,9 @@
 #### English :us: | Portuguese 🇧🇷
 
 ## What am I up to?
-<p>
-  Getting my Responsive Web Design, JavaScript Algorithms and Data Structures and Front End Development Libraries Certifications over at [freeCodeCamp](https://www.freecodecamp.org/Joviviz)
-</p>
+
+Getting my **Responsive Web Design**, **JavaScript Algorithms and Data Structures**, and **Front End Development Libraries** certifications over at [freeCodeCamp](https://www.freecodecamp.org/Joviviz).
+
 
 ## Certifications
 * [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
