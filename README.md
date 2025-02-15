@@ -23,11 +23,11 @@
 
 ## What am I up to?
 <p>
-  Getting my Responsive Web Design, JavaScript Algorithms and Data Structures and Front End Development Libraries Certifications over at https://www.freecodecamp.org/Joviviz
+  Getting my Responsive Web Design, JavaScript Algorithms and Data Structures and Front End Development Libraries Certifications over at [freeCodeCamp](https://www.freecodecamp.org/Joviviz)
 </p>
 
 ## Certifications
-[Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
+* [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
 
 ## Education | ⬇️ Latest to Newest ⬇️
 *  UniCeub - University Center of Brasília | Higher Education
