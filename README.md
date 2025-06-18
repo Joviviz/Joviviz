@@ -1,7 +1,8 @@
-
-# 👋☺️ Heyo ! I'm Jovi ! 
-
 ![](https://komarev.com/ghpvc/?username=Joviviz&color=blueviolet)
+# 👋☺️ Heyo! Eu sou o Jovi!
+
+#### Desenvolvedor Front-End e estudante de Ciência da Computação no UniCEUB (6º semestre). Tenho paixão por criar interfaces intuitivas e funcionais usando tecnologias como HTML, CSS, JavaScript, PHP e Python.
+#### English :us: | Portuguese 🇧🇷
 
 ## Technologies 📈 
 
@@ -14,28 +15,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Who am I?
-#### I'm a Front End Developer and a Computer Science student from @UniCeub, I'm currently on my 6th semester :us: <br>
-
-#### Sou um Desenvolvedor Front End e um estudante de Ciências da Computação do quinto semestre do @Uniceub 🇧🇷 <br>
-
-#### English :us: | Portuguese 🇧🇷
-
-## What am I up to?
-
-Getting my **Responsive Web Design**, **JavaScript Algorithms and Data Structures**, and **Front End Development Libraries** certifications over at [freeCodeCamp](https://www.freecodecamp.org/Joviviz).
-
-
 ## Certifications
 * [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
+* [Network Defense](https://www.credly.com/badges/8ec94c1c-f97a-4317-864b-8add4607c223/linked_in?t=su94ft)
+* [CCNA1](https://www.credly.com/badges/947715a1-9a92-4328-ad07-acc5e78ee1d9/public_url)
 
 ## Education | ⬇️ Latest to Newest ⬇️
 *  UniCeub - University Center of Brasília | Higher Education
-*  Unico                                   | Medicine Course for University | 1 y and 1/2
-*  CMB - Military School of Brasilia       | High School - Middle School
-*  CSCM - Sacred Heart of Mary             | Intermediate School - Elementary School
 
-### Groups
-* Astronomy Group - CMB
-* Botanic Group - CMB
-* Project Feynman - CMB | Students Iniciative | Physics - Chemistry
