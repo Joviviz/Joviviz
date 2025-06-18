@@ -20,6 +20,6 @@
 * [Network Defense](https://www.credly.com/badges/8ec94c1c-f97a-4317-864b-8add4607c223/linked_in?t=su94ft)
 * [CCNA1](https://www.credly.com/badges/947715a1-9a92-4328-ad07-acc5e78ee1d9/public_url)
 
-## Education | ⬇️ Latest to Newest ⬇️
+## Education
 *  UniCeub - University Center of Brasília | Higher Education
 
