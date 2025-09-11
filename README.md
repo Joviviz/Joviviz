@@ -11,7 +11,7 @@
 - Defesa de redes e identificação de ameaças  
 - Boas práticas de segurança
 
-## Technologies 📈 
+## 📈 Technologies 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,11 +21,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Certifications
+## 📜 Certifications
 * [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
 * [Network Defense](https://www.credly.com/badges/8ec94c1c-f97a-4317-864b-8add4607c223/linked_in?t=su94ft)
 * [CCNA1](https://www.credly.com/badges/947715a1-9a92-4328-ad07-acc5e78ee1d9/public_url)
 
-## Education
+## 🎓 Education
 * UniCEUB - University Center of Brasília | Computer Science  
 
