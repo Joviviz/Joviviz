@@ -1,11 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=Joviviz&color=blueviolet)
 # 👋☺️ Heyo! Eu sou o Jovi!
 
-#### Desenvolvedor Front-End e estudante de Ciência da Computação no UniCEUB (6º semestre). Tenho paixão por criar interfaces intuitivas e funcionais usando tecnologias como HTML, CSS, JavaScript, PHP e Python.
-#### English :us: | Portuguese 🇧🇷
+#### Estudante de Ciência da Computação (7º semestre, UniCEUB) e entusiasta de **Cybersegurança**, com foco em **análise de vulnerabilidades, pentest e hardening**.
+#### Experiência prévia como Desenvolvedor Front-End e conhecimentos em back-end, banco de dados e Programação Orientada a Objetos.
+#### English 🇺🇸 | Portuguese 🇧🇷  
+
+## 🛡️ Cybersecurity & Networking  
+- TryHackMe labs (pentest, hardening, vulnerabilities)  
+- Configuração e aplicação de ACLs (CCNA)  
+- Defesa de redes e identificação de ameaças  
+- Boas práticas de segurança
 
 ## Technologies 📈 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,5 +27,5 @@
 * [CCNA1](https://www.credly.com/badges/947715a1-9a92-4328-ad07-acc5e78ee1d9/public_url)
 
 ## Education
-*  UniCeub - University Center of Brasília | Higher Education
+* UniCEUB - University Center of Brasília | Computer Science  
 
