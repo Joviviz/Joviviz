@@ -6,10 +6,10 @@
 #### English 🇺🇸 | Portuguese 🇧🇷  
 
 ## 🛡️ Cybersecurity & Networking  
-- TryHackMe labs (pentest, hardening, vulnerabilities)  
-- Configuração e aplicação de ACLs (CCNA)  
-- Defesa de redes e identificação de ameaças  
-- Boas práticas de segurança
+- TryHackMe labs (penetration testing, system hardening, vulnerability analysis)
+- Configuration and application of ACLs (CCNA)
+- Network defense and threat identification
+- Security best practices
 
 ## 📈 Technologies 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
