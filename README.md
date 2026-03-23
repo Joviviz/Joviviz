@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Joviviz&color=blueviolet)
-# 👋☺️ Heyo! I'm Jovi!
+# 👋 Heyo! I'm Jovi!
 
-#### Computer Science student (7th semester, UniCEUB) and **Cybersecurity enthusiast**, focusing on **vulnerability analysis, penetration testing, and system hardening**.
+#### Computer Science student (8th semester, UniCEUB) and **Cybersecurity enthusiast**, focusing on **vulnerability analysis, penetration testing, and system hardening**.
 #### Previous experience as a Front-End Developer, with knowledge of back-end development, databases, and Object-Oriented Programming.
 #### English 🇺🇸 | Portuguese 🇧🇷  
 
